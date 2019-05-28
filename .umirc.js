@@ -12,7 +12,7 @@ export default {
       dynamicImport: false,
       title: 'project-template-with-UmiJS',
       dll: false,
-      
+
       routes: {
         exclude: [
           /components\//,
@@ -20,4 +20,7 @@ export default {
       },
     }],
   ],
+  define: {
+    // everything you want in dev
+  },
 }
