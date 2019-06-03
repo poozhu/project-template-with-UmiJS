@@ -21,6 +21,6 @@ export default {
     }],
   ],
   define: {
-    // everything you want in dev
+    // everything you want in build
   },
 }
