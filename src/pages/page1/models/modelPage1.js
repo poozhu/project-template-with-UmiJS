@@ -1,14 +1,14 @@
 import { getExampleData } from '../services';
 
 export default {
-    
+
   state: {
     data: '我是Redux中的数据 from modelPage1.js',
     num: 0
   },
 
   subscriptions: {
-    // 
+    //
   },
 
   effects: {

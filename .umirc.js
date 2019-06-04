@@ -1,4 +1,6 @@
 
+// 更多配置参见 https://umijs.org/config/
+
 export default {
   treeShaking: true,
   plugins: [
