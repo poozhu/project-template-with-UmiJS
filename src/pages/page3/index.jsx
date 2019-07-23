@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import styles from './index.less'
 
 class page3 extends Component {
   render() {
